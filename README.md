@@ -2,7 +2,16 @@
 <header>
 <h1>Welcome to my GitHub portfolio!</h1>
 </header>
-<main>
+  
+    <main>
+    
+    <h2>My study portfolio description<h2>
+      
+      <p>opis projektów</p>
+    
+  </main>
+
+  <aside>
   
   <p>My name is Dominik.</p>
   
@@ -19,17 +28,11 @@
   </ul>
   </p>
   
-  <section>
-    
-    <h2>My study portfolio description<h2>
-      
-      <p>opis projektów</p>
-    
-  </section>
-  
+ 
   <p>In private I drive cars and motorcycles and train in gym. It's my hobby. I like trips and meeting with nearest family.</p>
   
-</main>
+</aside>
+      
     <footer>
       <p>my email: dccstcc@gmail.com</p>
       <p>my LinkedIn profile: </p>
