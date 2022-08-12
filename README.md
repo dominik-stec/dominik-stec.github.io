@@ -69,7 +69,7 @@
   </p>
   
  
-  <p style="text-indent: 4%">In private I drive cars and motorcycles and train in gym. It's my hobby. I like trips and meeting with nearest family.</p>
+  <p style="text-indent: 4%">In private I drive cars and motorcycles and train in gym. It's my hobby. I like sacral trips and meeting with nearest family.</p>
   
 </aside>
       
