@@ -9,19 +9,20 @@
   
   <p style="text-indent: 4%">I graduated Polish-Japanese Academy of Computer Science as an engineer and Bachelor of Science (BSc) degree with a specialization in web applications. </p>
   
-      <br />
-    <br />
   
 </header>
   
   <section>
     
     <h2>My study portfolio description</h2>
+    
+          <br />
+    <br />
       
       <article>
         <ol>
           <li>
-            <h4>BIU_PJATK</h4>
+            <h4><a href="www.github.com">BIU_PJATK</a></h4>
             <p>desc</p>
           </li>
                     <li>
