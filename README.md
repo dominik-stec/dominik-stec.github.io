@@ -19,7 +19,7 @@
           <br />
     <br />
       
-      <article>
+      
         <ol>
           <li>
             <a href="www.github.com"><h4>BIU_PJATK</h4></a>
@@ -28,12 +28,13 @@
           
           <br />
           
-                    <li>
-            <h4>BIU_PJATK</h4>
+          <li>
+            <a href="www.github.com"><h4>BIU_PJATK</h4></a>
             <p>desc</p>
           </li>
+          
         </ol>
-    </article>
+    
     
   </section>
 
