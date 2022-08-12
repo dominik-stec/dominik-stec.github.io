@@ -19,15 +19,17 @@
           <br />
     <br />
       
-      
+      <article>
+        
         <ol>
-          <a href="www.github.com">
+          
+          
           <li>
-            <h4>BIU_PJATK</h4>
+           <a href="www.github.com"><span style="color: cyan">BIU_PJATK<span></a>
           
             <p style="text-indent: 4%">In this project I realise Single Page Application with Angular in version 5. SPA module is representation of user authorization process with field content control against throws exceptions caused wrong keybord typing.</p>
           </li>
-            </a>
+            
           
           <br />
           
@@ -38,6 +40,7 @@
           
         </ol>
     
+    </article>
     
   </section>
 
