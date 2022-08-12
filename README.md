@@ -9,6 +9,8 @@
   
   <p style="text-indent: 4%">I graduated Polish-Japanese Academy of Computer Science as an engineer and Bachelor of Science (BSc) degree with a specialization in web applications. </p>
   
+      <br />
+    <br />
   
 </header>
   
@@ -33,11 +35,14 @@
 
   <aside>
     
+    <br />
+    <br />
+    
     <h2>About me</h2>
 
-  <p style="text-indent: 4%">I am interested in wide range programming. I can tell that it is my passion. </p> <br /> 
-    <p style="text-indent: 4%"> The same i can repeat about global IT field and similiar branches like electronics, mechatronics, robotics, automatics also mechanics. </p> <br /> 
-    <p style="text-indent: 4%"> Apart from engineering topics I'm familiar with geography, biology, physics and chemistry. In addition I like new tech in medicine and automotive. </p> <br /> 
+  <p style="text-indent: 4%">I am interested in wide range programming. I can tell that it is my passion. </p> 
+    <p style="text-indent: 4%"> The same i can repeat about global IT field and similiar branches like electronics, mechatronics, robotics, automatics also mechanics. </p> 
+    <p style="text-indent: 4%"> Apart from engineering topics I'm familiar with geography, biology, physics and chemistry. In addition I like new tech in medicine and automotive. </p> 
     <p style="text-indent: 4%"> I like lectures which describe: how new tech like IT can improve and help another sectors or branches ? </p>
   
   <p style="text-indent: 4%">During my studies, I was involved in additional training on various topics, such as:
