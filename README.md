@@ -1,4 +1,4 @@
-<!doctype html>
+
 <html>
   <body>
 <header>
@@ -9,11 +9,24 @@
     
     <h2>My study portfolio description</h2>
       
-      <article>opis projektów</article>
+      <article>
+        <ol>
+          <li>
+            <h4>BIU_PJATK</h4>
+            <p>desc</p>
+          </li>
+                    <li>
+            <h4>BIU_PJATK</h4>
+            <p>desc</p>
+          </li>
+        </ol>
+    </article>
     
   </section>
 
   <aside>
+    
+    <h3>About me</h3>
   
   <p>My name is Dominik.</p>
   
