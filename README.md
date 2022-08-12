@@ -1,3 +1,4 @@
+<!doctype html>
 <html>
   <body>
 <header>
@@ -6,7 +7,7 @@
   
   <section>
     
-    <h2>My study portfolio description<h2>
+    <h2>My study portfolio description</h2>
       
       <article>opis projektów</article>
     
