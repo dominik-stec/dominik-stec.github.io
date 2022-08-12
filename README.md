@@ -26,9 +26,9 @@
 
   <aside>
     
-    <h3>About me</h3>
+    <h2>About me</h2>
   
-  <p>My name is Dominik.</p>
+  <p style="text-ident: 5">My name is Dominik.</p>
   
   <p>I graduated Polish-Japanese Academy of Computer Science as an engineer and Bachelor of Science (BSc) degree with a specialization in web applications. </p>
   
