@@ -75,7 +75,7 @@
       
     <footer>
       <p style="text-indent: 4%">My email: dccstcc@gmail.com</p>
-      <p style="text-indent: 4%"><a href="https://www.linkedin.com/in/dominik-stec">My LinkedIn profile</a></p>
+      <p style="text-indent: 4%; color: deepblue"><a href="https://www.linkedin.com/in/dominik-stec">My LinkedIn profile</a></p>
     </footer>
     </body>
 </html>
