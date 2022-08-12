@@ -1,15 +1,16 @@
 <html>
+  <body>
 <header>
 <h1>Welcome to my GitHub portfolio!</h1>
 </header>
   
-    <main>
+  <section>
     
     <h2>My study portfolio description<h2>
       
-      <p>opis projektów</p>
+      <article>opis projektów</article>
     
-  </main>
+  </section>
 
   <aside>
   
@@ -37,6 +38,7 @@
       <p>my email: dccstcc@gmail.com</p>
       <p>my LinkedIn profile: </p>
     </footer>
+    </body>
 </html>
 
 
