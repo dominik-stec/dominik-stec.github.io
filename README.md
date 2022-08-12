@@ -27,7 +27,7 @@
           
           
           <li>
-           <a href="www.github.com"><span style="color: deepblue">BIU_PJATK</span></a>
+           <a href="https://github.com/dccstcc/BIU_PJATK"><span style="color: deepblue">BIU_PJATK</span></a>
           
             <p style="text-indent: 4%">In this project I realise Single Page Application with Angular in version 5. SPA module is representation of user authorization process with field content control against throws exceptions caused wrong keybord typing.</p>
           </li>
@@ -36,8 +36,9 @@
           <br />
           
           <li>
-            <a href="www.github.com"><h4>BIU_PJATK</h4></a>
-            <p>desc</p>
+           <a href="www.github.com"><span style="color: deepblue">BIU_PJATK</span></a>
+          
+            <p style="text-indent: 4%">In this project I realise Single Page Application with Angular in version 5. SPA module is representation of user authorization process with field content control against throws exceptions caused wrong keybord typing.</p>
           </li>
           
         </ol>
