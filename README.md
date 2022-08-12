@@ -22,9 +22,12 @@
       <article>
         <ol>
           <li>
-            <h4><a href="www.github.com">BIU_PJATK</a></h4>
+            <a href="www.github.com"><h4>BIU_PJATK</h4></a>
             <p>desc</p>
           </li>
+          
+          <br />
+          
                     <li>
             <h4>BIU_PJATK</h4>
             <p>desc</p>
