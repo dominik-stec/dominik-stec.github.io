@@ -32,6 +32,8 @@
             <p style="text-indent: 4%">In this project I use different tests libraries for verify project implementation solutions.</p>
           </li>
           
+          <br />
+          
                    <li>
            <a href="https://github.com/dccstcc/TAU_PJATK_practice"><span style="color: deepblue">TAU_PJATK_practice</span></a>
           
