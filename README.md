@@ -27,9 +27,15 @@
             <br />
           
           <li>
-           <a href="www.github.com"><span style="color: deepblue">BIU_PJATK</span></a>
+           <a href="https://github.com/dccstcc/TAU_PJATK_practice"><span style="color: deepblue">TAU_PJATK_practice</span></a>
           
-            <p style="text-indent: 4%">In this project I realise Single Page Application with Angular in version 5. SPA module is representation of user authorization process with field content control against throws exceptions caused wrong keybord typing.</p>
+            <p style="text-indent: 4%">In this project I use different tests libraries for verify project implementation solutions.</p>
+          </li>
+          
+                   <li>
+           <a href="https://github.com/dccstcc/TAU_PJATK_practice"><span style="color: deepblue">TAU_PJATK_practice</span></a>
+          
+            <p style="text-indent: 4%">In this project I use different tests libraries for verify project implementation solutions.</p>
           </li>
           
         </ol>
