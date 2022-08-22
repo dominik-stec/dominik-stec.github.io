@@ -23,26 +23,26 @@
 
                              <li>
            <a href="https://github.com/dccstcc/ChangeYourMindGameBackend"><span style="color: deepblue">Browser game Change Your Mind - backend</span></a>
-          
+                                  
             <p style="text-indent: 4%">This project is a backend for board game. I made digital game based on reality game board. It was work work for my study practice. This project is dedicated for local government 'Self-Help Center' Institution where i realised my study practice.</p>
           </li>
           
+           <br />
           
                                        <li>
            <a href="https://github.com/dccstcc/ChangeYourMindGameClient"><span style="color: deepblue">Browser game Change Your Mind - frontend</span></a>
           
-            <p style="text-indent: 4%">This project is a frontend for digital board game</p>
+            <p style="text-indent: 4%">This project is a frontend for digital board game.</p>
           </li>
 
+           <br />
 
           <li>
            <a href="https://github.com/dccstcc/TAU_PJATK_practice"><span style="color: deepblue">TAU_PJATK_practice</span></a>
           
             <p style="text-indent: 4%">In this project I use different tests libraries for verify project implementation solutions.</p>
           </li>
-          
-          <br />
-          
+                    
                     <br />
 
                     <li>
