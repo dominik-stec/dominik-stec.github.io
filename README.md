@@ -50,6 +50,12 @@
           
             <p style="text-indent: 4%">In this project I realise Single Page Application with Angular in version 5. SPA module is representation of user authorization process with field content control against throws exceptions caused wrong keybord typing.</p>
           </li>
+          
+                              <li>
+            <a href="https://github.com/dccstcc/TIN_PJATK_practice"><span style="color: deepblue">TIN_PJATK_practice</span></a>
+          
+            <p style="text-indent: 4%"> In this project I try implement different types of technics use in web technologies. </p>
+          </li>
             
             <br />
           
