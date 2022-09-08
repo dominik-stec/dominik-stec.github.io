@@ -44,6 +44,14 @@
           </li>
                     
                     <br />
+                    
+                                        <li>
+            <a href="https://github.com/dccstcc/DOT_PJATK"><span style="color: deepblue">Angular Single Page Application with REST API</span></a>
+          
+            <p style="text-indent: 4%">This solution contains Angular SPA for register new users in system as frontend of application. After add new user new data are send for REST API backend endpoint. Backend work on .NET framework implementation. After register new user it is possible to read new user data in web browser.</p>
+          </li>
+          
+          <br />
 
                     <li>
             <a href="https://github.com/dccstcc/BIU_PJATK"><span style="color: deepblue">Angular Single Page Application</span></a>
