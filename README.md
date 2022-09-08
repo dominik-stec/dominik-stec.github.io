@@ -5,7 +5,8 @@
     
       <h3><p style="text-indent: 4%">My name is Dominik.</p></h3>
   
-      <p style="text-indent: 4%">I graduated Polish-Japanese Academy of Computer Science as an engineer and Bachelor of Science (BSc) degree with a specialization in web applications. </p>
+      <p style="text-indent: 4%">I graduated Polish-Japanese Academy of Computer Science as an engineer and Bachelor of Science (BSc) degree with a specialization in web applications in Gdansk. </p>
+      <p style="text-indent: 4%"> I am currently a master graduate student in the same academy in Warsaw.</p>
   
     </header>
   
