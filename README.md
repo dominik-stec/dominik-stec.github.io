@@ -53,7 +53,16 @@
           </li>
           
           <br />
-
+          
+                                                  <li>
+            <a href="https://github.com/dccstcc/ELK_PJATK"><span style="color: deepblue">Electronics project based on Arduino board and hardware prototype</span></a>
+          
+            <p style="text-indent: 4%">In this project I wrote software for Arduino IDE in C++ language fork and deploy this software in Arduino board memory. After that I connected Arduino board with hardware prototype contains LED diodes, resistors, display and button. This built scheme is simulation of game cube which player can throw by press button. Random result of throw is possible to observe on the LED diodes and sum of results appear on the display.
+</p>
+          </li>
+          
+          <br />
+          
                     <li>
             <a href="https://github.com/dccstcc/BIU_PJATK"><span style="color: deepblue">Angular Single Page Application</span></a>
           
