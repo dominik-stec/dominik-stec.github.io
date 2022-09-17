@@ -72,7 +72,7 @@
           <br />
           
                                                             <li>
-            <a href="https://github.com/dccstcc/GRK_PJATK_practice"><span style="color: deepblue"> Computer graphics subject and programming in OpenGL library in PJATK</span></a>
+            <a href="https://github.com/dccstcc/GRK_PJATK_practice"><span style="color: deepblue"> Computer graphics subject and programming in OpenGL library</span></a>
           
             <p style="text-indent: 4%"> In this subject I made four projects according to programming in C++ language and OpenGL library. These codes include implementation of 3D graphics models with rendered animation.
 </p>
