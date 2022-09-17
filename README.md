@@ -118,6 +118,7 @@
             <li>Azure Fundamentals 2101</li>
             <li>ACF2007 AWS Acamedy Cloud Foundations</li>
             <li>CISCO CCNA R&S</li>
+            <li>CISCO CCNA Security</li>
             <li>Linux LPIC-1 LPIC-2</li>
           </ul>
         </p>
