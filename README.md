@@ -123,8 +123,10 @@
           </ul>
         </p>
   
+            <p style="text-indent: 4%"> Currently I study data science technology. I am looking for a job where I will be able to develop knowledge related to this field.  </p>
+
  
-        <p style="text-indent: 4%">In private I drive cars and motorcycles and train in gym. It's my hobby. I like sacral trips and meeting with nearest family.</p>
+        <p style="text-indent: 4%">In private I like drive cars and train in gym. It's my hobby. I like sacral trips and spend time with family.</p>
   
        </aside>
       
