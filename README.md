@@ -112,6 +112,7 @@
         <p style="text-indent: 4%"> The same i can repeat about global IT field and similiar branches like electronics, mechatronics, robotics, automatics also mechanics. </p> 
         <p style="text-indent: 4%"> Apart from engineering topics I'm familiar with geography, biology, physics and chemistry. In addition I like new tech in medicine and automotive. </p> 
         <p style="text-indent: 4%"> I like lectures which describe: how new tech like IT can improve and help another sectors or branches ? </p>
+        <p style="text-indent: 4%"> I am interested artifical intelligence solutions especially for IoT sector. </p>
   
         <p style="text-indent: 4%">During my studies, I was involved in additional training on various topics, such as:
           <ul>
@@ -123,10 +124,10 @@
           </ul>
         </p>
   
-            <p style="text-indent: 4%"> Currently I study data science technology. I am looking for a job where I will be able to develop knowledge related to this field.  </p>
+            <p style="text-indent: 4%"> Currently I'm learning embedded systems technologies. I am looking for a job where I will be able to develop knowledge related to this field.  </p>
 
  
-        <p style="text-indent: 4%">In private I like drive cars and train in gym. It's my hobby. I like sacral trips and spend time with family.</p>
+        <p style="text-indent: 4%">I spend my free time with family. I like sacral trips, drive car, read books and train in gym.</p>
   
        </aside>
       
