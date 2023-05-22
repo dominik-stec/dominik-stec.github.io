@@ -12,7 +12,7 @@
     <section>
      <article>
 
-      <h2>My choosen projects description</h2>
+      <h2>My chosen projects description</h2>
 
           <br />
           <br />
@@ -142,7 +142,7 @@
 
         <p style="text-indent: 4%">Private I spend my free time with family. I like sport activity, motorization and literature.</p>
 
-        <p>Thank you for reading</p>
+        <p style="text-indent: 4%">Thank you for reading</p>
 
        </aside>
 
