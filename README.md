@@ -124,7 +124,7 @@
         <p style="text-indent: 4%">I am interested in wide range programming. I can tell that it is my passion. </p>
         <p style="text-indent: 4%"> The same i can tell about global IT field and similiar branches like electronics, mechatronics, robotics, automatics also mechanics. </p>
         <p style="text-indent: 4%"> Apart from engineering topics I'm familiar with geography, biology, physics and chemistry. In addition I like new tech in medicine and automotive. </p>
-        <p style="text-indent: 4%"> I like lectures which describes: how new tech  can improve another fields of science and economy ? This can make our life easier</p>
+        <p style="text-indent: 4%"> I like lectures which describes: how new tech  can improve another fields of science and economy ? This can make our life easier.</p>
         <p style="text-indent: 4%"> I am interested artifical intelligence solutions especially for IoT sector and embedded systems. </p>
 
         <p style="text-indent: 4%">During my studies, I was involved in additional training on various topics, such as:
@@ -142,9 +142,11 @@
 
         <p style="text-indent: 4%">Private I spend my free time with family. I like sport activity, motorization and literature.</p>
 
+        <p>Thank you for reading</p>
+
        </aside>
 
-        <p>Thank you for reading</p>
+
 
        <footer>
           <p style="text-indent: 4%">My email: dccstcc@gmail.com</p>
