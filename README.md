@@ -1,17 +1,22 @@
 <html>
   <body>
     <header>
-      <h1>Dominik Stec GitHub portfolio</h1>
+      <h1>Welcome to my GitHub portfolio</h1>
+
+      <h3><p style="text-indent: 4%">My name is Dominik.</p></h3>
+
     </header>
-  
+
+
+
     <section>
      <article>
-    
+
       <h2>My choosen projects description</h2>
-    
+
           <br />
           <br />
-      
+
         <ol>
 
                              <li>
@@ -24,7 +29,7 @@
 
 
                              <li>
-           <a href="https://github.com/dominik-stec/BoardGame_backend_ExpressJS_PJA"><span style="color: deepblue">Browser game 'Change Your Mind' - backend</span></a>
+           <a href="https://github.com/dominik-stec/BoardGame_backend_ExpressJS_PJA"><span style="color: deepblue">Web browser game 'Change Your Mind' - backend</span></a>
 
             <p style="text-indent: 4%">This project is a backend for board game. I made digital game based on reality game board. It was work work for my study practice. This project is dedicated for local government 'Self-Help Center' Institution where i realised my study practice.</p>
           </li>
@@ -32,7 +37,7 @@
            <br />
 
                                        <li>
-           <a href="https://github.com/dominik-stec/BoardGame_frontend_ReactJS_PJA"><span style="color: deepblue">Browser game 'Change Your Mind' - frontend</span></a>
+           <a href="https://github.com/dominik-stec/BoardGame_frontend_ReactJS_PJA"><span style="color: deepblue">Web browser game 'Change Your Mind' - frontend</span></a>
 
             <p style="text-indent: 4%">This project is a frontend for digital board game.</p>
           </li>
@@ -108,7 +113,7 @@
 
         <h2>About me</h2>
 
-        <h3><p style="text-indent: 4%">My name is Dominik.</p></h3>
+
 
                     <p style="text-indent: 4%"> Currently I'm focused on web technologies with accent on frontend technologies, web design, UX/UI. I am looking for a job where I will be able to develop knowledge related to this field.  </p>
 
@@ -139,7 +144,7 @@
 
        </aside>
 
-       Thank you for reading
+        <p>Thank you for reading</p>
 
        <footer>
           <p style="text-indent: 4%">My email: dccstcc@gmail.com</p>
